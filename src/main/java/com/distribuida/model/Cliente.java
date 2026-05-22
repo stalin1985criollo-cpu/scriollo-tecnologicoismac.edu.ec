@@ -1,7 +1,7 @@
 package com.distribuida.model;
 
 public class Cliente {
-
+//hola tom
     //atributos
     private int idCliente;
     private String cedula;
