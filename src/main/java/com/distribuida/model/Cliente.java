@@ -3,6 +3,7 @@ package com.distribuida.model;
 public class Cliente {
 //hola tom
     //atributos
+    //gato seco
     private int idCliente;
     private String cedula;
     private String nombre;
