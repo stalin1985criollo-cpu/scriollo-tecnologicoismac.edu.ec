@@ -1,0 +1,31 @@
+package com.distribuida.model;
+
+@Service
+public class ClienteServiceImpl implements ClienteService {
+
+    @Override
+    public List<Cliente> findAll() {
+        return List.of();
+    }
+
+    @Override
+    public Cliente findOne(int id) {
+        return null;
+    }
+
+    @Override
+    public Cliente save(Cliente cliente) {
+        return null;
+    }
+
+    @Override
+    public Cliente update(int id, Cliente cliente) {
+        return null;
+    }
+
+    @Override
+    public void delete(int id) {
+
+    }
+
+}
